@@ -1,0 +1,5 @@
+httpx==0.28.1
+openai==1.63.2
+PyYAML==6.0.2
+tqdm==4.67.1
+vllm==0.6.2

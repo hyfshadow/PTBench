@@ -1,0 +1,14 @@
+## you can find the result in the output_dir
+output_dir: predict
+
+## oss model settings
+model_name_or_path: null
+adapter_name_or_path : null
+template: qwen
+gpu_memory_utilization: 0.9
+
+
+## api model settings
+OPENAI_API_KEY: null
+OPENAI_BASE_URL: null
+api_model_name: null
